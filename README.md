@@ -3,5 +3,5 @@
 <h3 align="center">💻 Desarrolladora Full Stack en formación</h3>
 
 <p align="center">
-   Estudiante de Java Full Stack |  🦋  Aprendizaje continuo |  Tecnología
+  🖥️   Estudiante de Java Full Stack |  🦋  Aprendizaje continuo |  Tecnología
 </p>
