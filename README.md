@@ -1,7 +1,7 @@
-# 👋 Hola, soy Silvana Liempi
-## 💻 Desarrolladora Full Stack en formación 
+# <h1 align="center">👋 Hola, soy Silvana Liempi</h1>
 
----
+<h3 align="center">💻 Desarrolladora Full Stack en formación</h3>
 
-## Sobre mí
-Actualmente, soy estudiante de distintos lenguajes de programación y me encanta aprender nuevas tecnologías por mi cuenta.
+<p align="center">
+  ☕ Estudiante de Java Full Stack | 🌱 Aprendizaje continuo | 🚀 Tecnología
+</p>
